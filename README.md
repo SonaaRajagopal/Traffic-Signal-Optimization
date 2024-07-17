@@ -1,4 +1,4 @@
-**Traffic-Optimization-at-Intersection**
+# **Traffic-Optimization-at-Intersection**
 
 
 Managing urban traffic, especially at busy intersections, is a major headache for modern cities. The old-school traffic lights with their fixed timings just can't keep up with the changing traffic volumes and conditions, leading to long waits, congestion, and more pollution. It's clear that we need smarter solutions to keep our city traffic flowing smoothly.
