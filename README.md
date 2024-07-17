@@ -1,4 +1,6 @@
-Traffic-Optimization-at-Intersection
+**Traffic-Optimization-at-Intersection**
+
+
 Managing urban traffic, especially at busy intersections, is a major headache for modern cities. The old-school traffic lights with their fixed timings just can't keep up with the changing traffic volumes and conditions, leading to long waits, congestion, and more pollution. It's clear that we need smarter solutions to keep our city traffic flowing smoothly.
 
 That's where intelligent traffic signal control systems come in. By harnessing machine learning and real-time data, these systems can adjust traffic signals based on what's actually happening on the roads. This means smoother traffic flow, shorter wait times, and a more responsive approach to emergencies. Imagine a system that detects heavy traffic or an approaching ambulance and adjusts the signals accordingly – that's the future of urban traffic management.
